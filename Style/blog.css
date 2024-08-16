@@ -1,4 +1,6 @@
 .div{
     color: rgb(99, 49, 160);
     background-color: tomato;
+    border: 10px solid blue;
+    margin: 10px;
 }
